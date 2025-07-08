@@ -1,5 +1,5 @@
 This repository contains selected exercise solutions and notes from Lloyd N. Trefethen's "Approximation Theory and Approximation Practice" (ATAP), worked during Summer 2025. The material is a non-polished work in progress. 
 In addition to exercises and notes, it includes:
     1) A manual implementation of the Discrete Fourier Transform
-    2) A basic implementation of Chebfun, built using both the Discrete Chebyshev Transform (accelerated with a manual FFT) and the second form of barycentric interpolation. 
+    2) A basic manual implementation of Chebfun, built using both the Discrete Chebyshev Transform (accelerated with a manual FFT) and the second form of barycentric interpolation. 
 If you find errors, or anything useful, please email: mdm353@txstate.edu.
